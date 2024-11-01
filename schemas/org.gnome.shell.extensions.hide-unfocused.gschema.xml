@@ -1,0 +1,8 @@
+<schemalist gettext-domain="hide-unfocused">
+    <schema id="org.gnome.shell.extensions.hide-unfocused" path="/org/gnome/shell/extensions/hide-unfocused/">
+        <key name="hide-unfocused-shortcut" type="as">
+            <default><![CDATA[['<Control><Shift>f']]]></default>
+            <summary>Shortcut to minimize unfocused windows</summary>
+        </key>
+    </schema>
+</schemalist>

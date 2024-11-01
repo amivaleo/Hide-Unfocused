@@ -1,0 +1,11 @@
+{
+  "description": "Minimizes all windows except the active one when pressing Ctrl+Shift+F.",
+  "extension-id": "hide-unfocused",
+  "gettext-domain": "hide-unfocused",
+  "name": "Hide Unfocused",
+  "settings-schema": "org.gnome.shell.extensions.hide-unfocused",
+  "shell-version": ["47"],
+  "url": "https://github.com/amivaleo/Hide-Unfocused",
+  "uuid": "hide-unfocused@amivaleo",
+  "version": 1
+}
